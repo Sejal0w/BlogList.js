@@ -1,0 +1,25 @@
+# Blog List App (React.js)
+
+A responsive blog listing application built using *React.js*. It displays blog cards with dynamic rendering and a clean UI.
+
+## 🚀 Features
+
+- Dynamic blog list rendering using props
+- Responsive design using CSS
+- Component-based structure
+- Clean layout and hover effects
+
+## 🛠 Tech Stack
+
+- React.js
+- HTML5
+- CSS3
+- JavaScript
+
+## 📁 How to Run Locally
+
+```bash
+git clone https://github.com/Sejal0w/BlogList.js
+cd BlogList.js
+npm install
+npm start
